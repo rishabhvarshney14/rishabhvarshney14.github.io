@@ -5,6 +5,11 @@ projects, Research Papers that I have implemented and Notebooks in which I have 
 
 ## Projects
 
+### Detect House Item
+
+In this project I use Google's Open Images Dataset to train Retinanet (backend by resnet) to tell what items are present in the image. i use [keras-retinanet](https://github.com/fizyr/keras-retinanet) model for this project. You can check the code [here](https://github.com/rishabhvarshney14/Detect-House-Item)
+and the live app [here](https://detecthouseitem.herokuapp.com/)
+
 ### Digit Sequence Recognition
 
 In this project I use MNIST handwritten dataset to generate a sequence of 5 digits and trained it on a model that I created with keras.
@@ -28,6 +33,6 @@ In this project I used various sorting algorithms and visualise them using matpl
 I use this [dataset](https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney) from Kaggle and did some data analysis and visualisation on it. You can check the notebook [here](https://github.com/rishabhvarshney14/Kaggle-Datasets/blob/master/Stremaing%20Platform%20EDA.ipynb)
 
 ## Contact
-- E-mail: rishabhvarshney14@gmail.com
+- E-mail: rishabhvarshney14 (at) gmail (dot) com
 - Github: [/rishabhvarshney14](https://github.com/rishabhvarshney14)
 - LinkedIn: [Rishabh Varshney](https://www.linkedin.com/in/rishabhvarshney14/)
