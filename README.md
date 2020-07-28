@@ -19,6 +19,12 @@ You can check the code [here](https://github.com/rishabhvarshney14/Digit_sequenc
 
 In this project I used various sorting algorithms and visualise them using matplotlib. Sorting algorithms that I use are Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort. You can check the code [here](https://github.com/rishabhvarshney14/Sorting-Visualization)
 
+## Analysis
+
+### PM Narendra Modi Speech Analysis
+
+Scrape data from the PM Narendra Modi's official [website](https://rishabhvarshney14.github.io/pm-modi-speech-analysis/) and used it to do analysis. You can check the analysis [here](https://rishabhvarshney14.github.io/pm-modi-speech-analysis/). Data scraped can be found on my github repo [here](https://github.com/rishabhvarshney14/pm-modi-speech-analysis).
+
 ## Implementation of Models
 
 - [AlexNet](https://github.com/rishabhvarshney14/Implementation-of-Research-Papers/tree/master/AlexNet)
@@ -34,5 +40,5 @@ I use this [dataset](https://www.kaggle.com/ruchi798/movies-on-netflix-prime-vid
 
 ## Contact
 - E-mail: rishabhvarshney14 (at) gmail (dot) com
-- Github: [/rishabhvarshney14](https://github.com/rishabhvarshney14)
+- Github: [@rishabhvarshney14](https://github.com/rishabhvarshney14)
 - LinkedIn: [Rishabh Varshney](https://www.linkedin.com/in/rishabhvarshney14/)
