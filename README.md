@@ -5,6 +5,13 @@ projects, Research Papers that I have implemented and Notebooks in which I have 
 
 ## Projects
 
+### PM Narendra Modi Speech Analysis and Summarization
+
+Scrape data from the PM Narendra Modi's official [website](https://rishabhvarshney14.github.io/pm-modi-speech-analysis/) and used it to do analysis. You can check the analysis [here](https://rishabhvarshney14.github.io/pm-modi-speech-analysis/). Data scraped can be found on my github repo [here](https://github.com/rishabhvarshney14/pm-modi-speech-analysis). Also train an ML model to summarize the speeches.
+
+### AUSPL: Another useless Programming Language
+Created a programming language based on the Monkey Lang. It has basic data types like integer and string along with functions and if-else. Consists of additional functionality like while loops apart from Monkey Lang.  You can check the code [here](https://github.com/rishabhvarshney14/AUSPL).
+
 ### Detect House Item
 
 In this project I use Google's Open Images Dataset to train Retinanet (backend by resnet) to tell what items are present in the image. i use [keras-retinanet](https://github.com/fizyr/keras-retinanet) model for this project. You can check the code [here](https://github.com/rishabhvarshney14/Detect-House-Item)
@@ -17,13 +24,12 @@ You can check the code [here](https://github.com/rishabhvarshney14/Digit_sequenc
 
 ### Sorting Visualization
 
-In this project I used various sorting algorithms and visualise them using matplotlib. Sorting algorithms that I use are Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort. You can check the code [here](https://github.com/rishabhvarshney14/Sorting-Visualization)
+In this project I used various sorting algorithms and visualise them using matplotlib. Sorting algorithms that I use are Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort. You can check the code [here](https://github.com/rishabhvarshney14/Sorting-Visualization).
 
-## Analysis
+### Covid 19 Webapp
 
-### PM Narendra Modi Speech Analysis
-
-Scrape data from the PM Narendra Modi's official [website](https://rishabhvarshney14.github.io/pm-modi-speech-analysis/) and used it to do analysis. You can check the analysis [here](https://rishabhvarshney14.github.io/pm-modi-speech-analysis/). Data scraped can be found on my github repo [here](https://github.com/rishabhvarshney14/pm-modi-speech-analysis).
+Used ReactJS to create a webapp for Covid-19. Display current number of deaths, infected and recovered globaly or by countries. Used Netlify for hosting the web application.
+You can check the code [here](https://github.com/rishabhvarshney14/covid19-webapp) or the live version [here](https://covid19webapp.netlify.app/)
 
 ## Implementation of Models
 
