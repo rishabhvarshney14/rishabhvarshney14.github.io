@@ -3,6 +3,12 @@
 I'm Rishabh Varshney and currently in my third year of bachelor's degree in Computer Science. This portfolio is compilation of the 
 projects, Research Papers that I have implemented and Notebooks in which I have done EDA.
 
+### Contents:
+  - [Projects](https://rishabhvarshney14.github.io/#projects)
+  - [Implementation of Models](https://rishabhvarshney14.github.io/#implementation-of-models)
+  - [Kaggle](https://rishabhvarshney14.github.io/#kaggle)
+  - [Contact](https://rishabhvarshney14.github.io/#kaggle)
+
 ## Projects
 
 ### PM Narendra Modi Speech Analysis and Summarization
