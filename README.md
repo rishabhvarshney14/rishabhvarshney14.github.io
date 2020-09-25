@@ -1,6 +1,6 @@
 # Rishabh Varshney
 
-Visit [rishabh14.now.sh](rishabh14.now.sh) for my portfolio.
+Visit [rishabh14.now.sh](https://rishabh14.now.sh/) for my portfolio.
 
 I'm Rishabh Varshney and currently in my third year of bachelor's degree in Computer Science. This portfolio is compilation of the 
 projects, Research Papers that I have implemented and Notebooks in which I have done EDA.
