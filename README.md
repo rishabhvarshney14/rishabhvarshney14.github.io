@@ -1,5 +1,7 @@
 # Rishabh Varshney
 
+Visit rishabh14.now.sh for my portfolio.
+
 I'm Rishabh Varshney and currently in my third year of bachelor's degree in Computer Science. This portfolio is compilation of the 
 projects, Research Papers that I have implemented and Notebooks in which I have done EDA.
 
@@ -7,13 +9,12 @@ projects, Research Papers that I have implemented and Notebooks in which I have 
   - [Projects](https://rishabhvarshney14.github.io/#projects)
   - [Implementation of Models](https://rishabhvarshney14.github.io/#implementation-of-models)
   - [Kaggle](https://rishabhvarshney14.github.io/#kaggle)
-  - [Contact](https://rishabhvarshney14.github.io/#kaggle)
 
 ## Projects
 
-### PM Narendra Modi Speech Analysis and Summarization
+### PM Narendra Modi Speech Analysis
 
-Scrape data from the PM Narendra Modi's official [website](https://rishabhvarshney14.github.io/pm-modi-speech-analysis/) and used it to do analysis. You can check the analysis [here](https://rishabhvarshney14.github.io/pm-modi-speech-analysis/). Data scraped can be found on my github repo [here](https://github.com/rishabhvarshney14/pm-modi-speech-analysis). Also train an ML model to summarize the speeches.
+Scrape data from the PM Narendra Modi's official [website](https://rishabhvarshney14.github.io/pm-modi-speech-analysis/) and used it to do analysis. You can check the analysis [here](https://rishabhvarshney14.github.io/pm-modi-speech-analysis/). Data scraped can be found on my github repo [here](https://github.com/rishabhvarshney14/pm-modi-speech-analysis).
 
 ### AUSPL: Another useless Programming Language
 Created a programming language based on the Monkey Lang. It has basic data types like integer and string along with functions and if-else. Consists of additional functionality like while loops apart from Monkey Lang.  You can check the code [here](https://github.com/rishabhvarshney14/AUSPL).
@@ -49,8 +50,3 @@ You can check the code [here](https://github.com/rishabhvarshney14/covid19-webap
 ### Movies on Netflix, Prime Video, Hulu and Disney+
 
 I use this [dataset](https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney) from Kaggle and did some data analysis and visualisation on it. You can check the notebook [here](https://github.com/rishabhvarshney14/Kaggle-Datasets/blob/master/Stremaing%20Platform%20EDA.ipynb)
-
-## Contact
-- E-mail: rishabhvarshney14 (at) gmail (dot) com
-- Github: [@rishabhvarshney14](https://github.com/rishabhvarshney14)
-- LinkedIn: [Rishabh Varshney](https://www.linkedin.com/in/rishabhvarshney14/)
